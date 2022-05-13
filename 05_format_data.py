@@ -1,7 +1,7 @@
 '''
 DATA employee;
 INPUT emp_name$ emp_salary;
-FORMAT emp_name$ UPCASE10;
+FORMAT emp_name$ UPCASE10.;
 DATALINES;
 shoeb 100000
 vishal 999999
