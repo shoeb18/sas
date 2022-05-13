@@ -1,5 +1,5 @@
 '''
-DATA car
+DATA car;
 input car_model$ car_price;
 DATALINES;
 creta 1500000

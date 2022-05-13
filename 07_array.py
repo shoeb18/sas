@@ -1,5 +1,5 @@
 '''
-DATA array
+DATA array;
 INPUT l1$ l2$ l3$;
 Array languages(3)$ l1-l3;
 DATALINES;
